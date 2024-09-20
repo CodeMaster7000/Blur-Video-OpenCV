@@ -3,3 +3,5 @@
 ## About
 
 A C++ program to blur a video captured with OpenCV.
+
+_Please not that this program will only compile in Linux environment_.
