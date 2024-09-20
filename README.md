@@ -4,7 +4,7 @@
 
 A C++ program to blur a video captured with OpenCV.
 
-_NOTE: This program will only compile in the Linux environment. To run in Windows, run the filename in cmd. Alternatively, compile in Windows by making suitable changes to the code._
+_NOTE: This program will only compile in Linux environment. To run in Windows, run the filename in cmd. Alternatively, compile in Windows by making suitable changes to the code._
 
 ## Instructions for Use
 
