@@ -1,4 +1,4 @@
-# OpenCV Video Blur
+# Blur Video (OpenCV)
 
 ## About
 
